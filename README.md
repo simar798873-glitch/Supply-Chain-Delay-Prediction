@@ -1,5 +1,5 @@
 # Supply-Chain-Delay-Prediction
-![Image](ai supply.jpg)
+![image](ai_supply.jpg)
 
 
 ##  Project Overview
